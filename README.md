@@ -36,10 +36,6 @@
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
-</a>
-<a href="https://instagram.com/luanmooraes" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-luanmooraes-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 <a href="https://linkedin.com/in/luansilvamoraes" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-luansilvamoraes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
