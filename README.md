@@ -2,8 +2,6 @@
 
 - 🔥 Backend Developer 
 
-- 📚 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
